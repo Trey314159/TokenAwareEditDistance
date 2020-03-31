@@ -3,7 +3,7 @@
 March 2020
 
 Algorithm by [Trey Jones](https://meta.wikimedia.org/wiki/User:TJones_%28WMF%29).  
-Code improvements by [Zbyszko
+Core code improvements by [Zbyszko
 Papierski](https://meta.wikimedia.org/wiki/User:ZPapierski_%28WMF%29).  
 Post-fork documentation and code updates and general code diminishments also by [Trey
 Jones](https://github.com/Trey314159).
@@ -12,11 +12,12 @@ Jones](https://github.com/Trey314159).
 Wikimedia [Search Platform](https://www.mediawiki.org/wiki/Wikimedia_Search_Platform)
 team's [Glent](https://gerrit.wikimedia.org/r/#/admin/projects/search/glent) project*
 
-### Changes
+### Post-Fork Changes
 
-* Modified this ReadMe to be less Glent-oriented.
-* TODO: add command line driver
-* TODO: add full table output
+* Modified this ReadMe to be less Glent-oriented
+* Added command-line driver and documentation
+ * TODO?: add optimization code that can run using the driver
+* TODO?: add full edit distance table output
 
 ## Background & Rationale
 
